@@ -1,0 +1,16 @@
+{
+  "name": "analog_queries",
+  "version": "1.0.0",
+  "description": "hmm",
+  "main": "analog.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@analog-labs/timegraph-js": "^0.1.1",
+    "@polkadot/extension-dapp": "^0.47.5",
+    "@polkadot/keyring": "^12.6.2"
+  }
+}
